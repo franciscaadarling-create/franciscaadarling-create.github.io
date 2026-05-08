@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://img.magnific.com/vector-gratis/estilo-fondo-minimalista-gradiente-colores_698780-835.jpg);
+background-size: cover;}
+
+h1 {
+    color: red;
+    font-size: 75px;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    text-align: center;
+}
+
+select {
+    display: block;
+    margin: 0 auto;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+div#boton {
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 50px;
+    margin: 20px auto;
+    cursor: pointer;
+}
